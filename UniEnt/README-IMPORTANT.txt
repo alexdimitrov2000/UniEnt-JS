@@ -1,0 +1,1 @@
+Dont' forget to run "npm install", because this app depends on bootstrap and jquery!
